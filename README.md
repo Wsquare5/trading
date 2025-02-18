@@ -8,21 +8,21 @@
 
 首先创建并激活虚拟环境：
 
-````bash
-创建虚拟环境
-`python -m venv venv`
-激活虚拟环境
-Windows:
-`.\venv\Scripts\activate`
-macOS/Linux:
-`source venv/bin/activate`
+```bash
+#创建虚拟环境
+python -m venv venv
+#激活虚拟环境
+#Windows:
+.\venv\Scripts\activate
+#macOS/Linux:
+source venv/bin/activate
 ```
 
 ### 2. 安装依赖
 
 ```bash
 pip install -r requirements.txt
-````
+```
 
 ### 3. 环境变量配置
 
