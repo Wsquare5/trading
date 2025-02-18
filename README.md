@@ -1,4 +1,4 @@
-# AI Chat Application
+# Deepseek API 调用
 
 是否受够了 deepseek-r1 的服务器繁忙？不如让我们直接调用 deepseek API 来聊天吧。
 
@@ -48,7 +48,7 @@ DASHSCOPE_API_KEY=your_api_key_here
 python app.py
 ```
 
-访问 http://localhost:5000 即可使用应用。
+访问 http://localhost:8080 即可使用应用。
 
 ## 项目结构
 
